@@ -1,0 +1,4 @@
+open cmd
+htlatex ./FletcherCV "xhtml, charset=utf-8" " -cunihtf -utf8"
+remove html/head/body tags (they're provided by cv.md)
+overwrite html to _includes, css to assets
