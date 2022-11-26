@@ -11,7 +11,7 @@ Here are a few LED-based projects I've been working on! Not for sale at this tim
 ## Triangular LED panels
 
 <p style="text-align:center;">
-<img src="{{ site.url }}/assets/led/LED_10_triangle_top cropped.png" alt="Equilateral triangle with 10 LEDs - KiCad"  style="width: 45%"/>
+<img src="{{ site.url }}/assets/led/LED_10_triangle_top cropped.png" alt="Equilateral triangle with 10 LEDs - KiCad"  style="width: 50%"/>
 <img src="{{ site.url }}/assets/led/single triangle.jpg" alt="Equilateral triangle with 10 LEDs - realized"  style="width: 45%"/>
 </p>
 
