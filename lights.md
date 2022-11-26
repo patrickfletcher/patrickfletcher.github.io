@@ -15,7 +15,7 @@ Here are a few LED-based projects I've been working on! Not for sale at this tim
 <img src="{{ site.url }}/assets/led/single triangle.jpg" alt="Equilateral triangle with 10 LEDs - realized"  style="width: 45%"/>
 </p>
 
-I designed these triangular LED panels to light my [icosahedral lantern](#icosahedral-lantern) using KiCad. They are custom printed circuit boards (PCBs) that, like LED strips, can be chained together into flat arrays or 3D shapes.
+I designed these triangular LED panels to light my [icosahedral lantern](#icosahedral-lantern) using KiCad. They are custom printed circuit boards (PCBs) that can be chained together into flat arrays or 3D shapes, like LED strips.
 
 ## Icosahedral Lantern
 
