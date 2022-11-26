@@ -18,6 +18,8 @@ Here are a few LED-based projects I've been working on! Not for sale at this tim
 I designed these triangular LED panels to light my [icosahedral lantern](#icosahedral-lantern) using KiCad. They are custom printed circuit boards (PCBs) that can be chained together into flat arrays or 3D shapes, like LED strips.
 
 ## Icosahedral Lantern
+<a id="Icosahedral Lantern">Icosahedral Lantern</a>
+<a href="#Icosahedral Lantern">Icosahedral Lantern</a>
 
 <p style="text-align:center;">
 <img src="{{ site.url }}/assets/led/lantern in bank window.jpg" alt="Icosahedral lantern at the Takoma Park Bank"  style="width: 100%"/>
