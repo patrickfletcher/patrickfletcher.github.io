@@ -47,12 +47,7 @@ These colorful light fixtures are lit with flat arrays of my [triangular LED pan
 
 <p style="text-align:center;">
 <img src="{{ site.url }}/assets/led/hex open.jpg" alt="inside the small porthole - 6 LED triangles in a hexagonal array"  style="width: 50%"/>
-</p>
-
-*Inside the small porthole - 6 LED triangles in a hexagonal array*
-
-<p style="text-align:center;">
 <img src="{{ site.url }}/assets/led/trihex open.jpg" alt="inside the large porthole - 13 LED triangles in a hexagonal array"  style="width: 50%"/>
 </p>
 
-*Inside the large porthole - 13 LED triangles in a hexagonal array*
+*Inside the LED portholes*
