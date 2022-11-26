@@ -23,7 +23,7 @@ I designed these triangular LED panels to light my [icosahedral lantern](#icosah
 <img src="{{ site.url }}/assets/led/lantern in bank window.jpg" alt="Icosahedral lantern at the Takoma Park Bank"  style="width: 100%"/>
 </p>
 
-*One of my icosahedral lanterns displayed at the [Market at the Bank](https://www.marketatthebank.com/) in Takoma Park, MD.*
+*An icosahedral lanterns displayed at the [Market at the Bank](https://www.marketatthebank.com/) in Takoma Park, MD.*
 
 A [regular icosahedron](https://en.wikipedia.org/wiki/Regular_icosahedron) is made up of 20 equilateral triangles. This lantern is made up of two layers: an outer layer of laser-cut wooden triangles, lit from within by a second set of 20 [triangular LED panels](#triangular-led-panels). The icosahedra are held together with 3D printed corner connectors. 
 
