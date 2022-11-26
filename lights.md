@@ -35,7 +35,7 @@ The pattern on the outer layer is an example of a reaction diffusion pattern - s
 
 The LEDs are driven using the excellent [Pixelblaze v3 controller](https://www.bhencke.com/pixelblaze).
 
-## PorthoLED
+## LED Portholes
 
 <p style="text-align:center;">
 <img src="{{ site.url }}/assets/led/portholes.jpg" alt="A pair of LED portholes displayed at the Market at the Bank in Takoma Park, MD"  style="width: 100%"/>
