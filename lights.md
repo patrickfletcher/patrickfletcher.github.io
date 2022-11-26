@@ -28,7 +28,7 @@ I designed these triangular LED panels to light my [icosahedral lantern](#icosah
 A [regular icosahedron](https://en.wikipedia.org/wiki/Regular_icosahedron) is made up of 20 equilateral triangles. This lantern is made up of two layers: an outer layer of laser-cut wooden triangles, lit from within by a second set of 20 [triangular LED panels](#triangular-led-panels). The icosahedra are held together with 3D printed corner connectors. 
 
 <p style="text-align:center;">
-<img src="{{ site.url }}/assets/led/lantern open.jpg" alt="Equilateral triangle with 10 LEDs"  style="width: 100%"/>
+<img src="{{ site.url }}/assets/led/lantern open.jpg" alt="Icosahedral lantern - internal view"  style="width: 100%"/>
 </p>
 
 The pattern on the outer layer is an example of a reaction diffusion pattern - specifically, I simulated the Gray-Scott equations on the surface of an icosahedron using [Ready](https://github.com/GollyGang/ready). To play with these patterns interactively, check out [Robert Munafo's Gray Scott Explorer](http://mrob.com/pub/comp/xmorphia/ogl/index.html).
@@ -38,7 +38,7 @@ The LEDs are driven using the excellent [Pixelblaze v3 controller](https://www.b
 ## Portholes
 
 <p style="text-align:center;">
-<img src="{{ site.url }}/assets/led/portholes.jpg" alt="Equilateral triangle with 10 LEDs"  style="width: 100%"/>
+<img src="{{ site.url }}/assets/led/portholes.jpg" alt="A pair of LED portholes displayed at the Market at the Bank in Takoma Park, MD"  style="width: 100%"/>
 </p>
 
 *A pair of LED portholes displayed at the [Market at the Bank](https://www.marketatthebank.com/) in Takoma Park, MD.*
@@ -46,13 +46,13 @@ The LEDs are driven using the excellent [Pixelblaze v3 controller](https://www.b
 These colorful light fixtures are lit with flat arrays of my [triangular LED panels](#triangular-led-panels). The small one has 6 triangles and the large one has 13.  These panels are also driven by [Pixelblaze v3 controllers](https://www.bhencke.com/pixelblaze) and the Pixelblaze sensor board expansion, which includes a microphone for sound-reactive effects.
 
 <p style="text-align:center;">
-<img src="{{ site.url }}/assets/led/hex open.jpg" alt="Equilateral triangle with 10 LEDs"  style="width: 100%"/>
+<img src="{{ site.url }}/assets/led/hex open.jpg" alt="inside the small porthole - 6 LED triangles in a hexagonal array"  style="width: 100%"/>
 </p>
 
 *inside the small porthole - 6 LED triangles in a hexagonal array*
 
 <p style="text-align:center;">
-<img src="{{ site.url }}/assets/led/trihex open.jpg" alt="Equilateral triangle with 10 LEDs"  style="width: 100%"/>
+<img src="{{ site.url }}/assets/led/trihex open.jpg" alt="inside the large porthole - 13 LED triangles in a hexagonal array"  style="width: 100%"/>
 </p>
 
 *inside the large porthole - 13 LED triangles in a hexagonal array*
