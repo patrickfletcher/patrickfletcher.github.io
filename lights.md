@@ -46,13 +46,13 @@ The LEDs are driven using the excellent [Pixelblaze v3 controller](https://www.b
 These colorful light fixtures are lit with flat arrays of my [triangular LED panels](#triangular-led-panels). The small one has 6 triangles and the large one has 13.  These panels are also driven by [Pixelblaze v3 controllers](https://www.bhencke.com/pixelblaze) and the Pixelblaze sensor board expansion, which includes a microphone for sound-reactive effects.
 
 <p style="text-align:center;">
-<img src="{{ site.url }}/assets/led/hex open.jpg" alt="inside the small porthole - 6 LED triangles in a hexagonal array"  style="width: 100%"/>
+<img src="{{ site.url }}/assets/led/hex open.jpg" alt="inside the small porthole - 6 LED triangles in a hexagonal array"  style="width: 50%"/>
 </p>
 
-*inside the small porthole - 6 LED triangles in a hexagonal array*
+*Inside the small porthole - 6 LED triangles in a hexagonal array*
 
 <p style="text-align:center;">
-<img src="{{ site.url }}/assets/led/trihex open.jpg" alt="inside the large porthole - 13 LED triangles in a hexagonal array"  style="width: 100%"/>
+<img src="{{ site.url }}/assets/led/trihex open.jpg" alt="inside the large porthole - 13 LED triangles in a hexagonal array"  style="width: 50%"/>
 </p>
 
-*inside the large porthole - 13 LED triangles in a hexagonal array*
+*Inside the large porthole - 13 LED triangles in a hexagonal array*
