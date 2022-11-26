@@ -6,7 +6,7 @@ permalink: /lights/
 
 # LED light projects
   
-Here are a few LED-based projects I'm working on! Not for sale at this time.
+Here are a few LED-based projects I've been working on! Not for sale at this time.
 
 ## Icosahedral Lantern
 
