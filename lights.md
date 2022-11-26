@@ -31,7 +31,7 @@ A [regular icosahedron](https://en.wikipedia.org/wiki/Regular_icosahedron) is ma
 <img src="{{ site.url }}/assets/led/lantern open.jpg" alt="Icosahedral lantern - internal view"  style="width: 100%"/>
 </p>
 
-The pattern on the outer layer is an example of a reaction diffusion pattern - specifically, I simulated the Gray-Scott equations on the surface of an icosahedron using [Ready](https://github.com/GollyGang/ready). To play with these patterns interactively, check out [Robert Munafo's Gray Scott Explorer](http://mrob.com/pub/comp/xmorphia/ogl/index.html).
+The pattern on the outer layer is an example of a reaction diffusion pattern. I simulated the Gray-Scott equations on the surface of an icosahedron using [Ready](https://github.com/GollyGang/ready). To play with these patterns interactively, check out [Robert Munafo's Gray Scott Explorer](http://mrob.com/pub/comp/xmorphia/ogl/index.html).
 
 The LEDs are driven using the excellent [Pixelblaze v3 controller](https://www.bhencke.com/pixelblaze).
 
